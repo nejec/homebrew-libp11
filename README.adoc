@@ -1,0 +1,10 @@
+= Homebrew libp11 version 0.4.10
+
+== Description
+
+Updated version of official libp11 formula.
+
+== Installation
+
+. `brew tap nejec/libp11`
+. `brew install libp11`
